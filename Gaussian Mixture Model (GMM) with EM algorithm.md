@@ -65,7 +65,9 @@ We calculate the Gaussian PDF for each height for both groups and then compute t
 | 5.9        | 0.3183                      | 0.2340                     | 0.5761                     | 0.4239                     |
 | 5.6        | 0.3797                      | 0.1634                     | 0.6982                     | 0.3018                     |
 | 6.0        | 0.2987                      | 0.2525                     | 0.5421                     | 0.4579                     |
-![[Pasted image 20241111195326.png]]### **Step 4: Repeat E-step and M-step**
+![](images/Pasted image 20241111195326.png)
+
+### **Step 4: Repeat E-step and M-step**
 
 Now, we repeat the E-step and M-step using the updated means, variances, and mixture coefficients. We continue until the parameters converge (i.e., the values stop changing significantly).
 

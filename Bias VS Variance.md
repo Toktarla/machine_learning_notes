@@ -81,8 +81,8 @@ Limited Features or Simplified Data:
 - **Dataset-driven Variance**: Comes from noise, complex feature relationships, and limited sample size, making the model highly sensitive to variations in the data.
 
 ### Mathematical Formulas for Bias and Variance
-![[Pasted image 20241111183652.png]]
-![[Pasted image 20241111184833.png]]
+![](images/Pasted image 20241111183652.png)
+![](images/Pasted image 20241111184833.png)
 
 Model B High Variance Low Low Bias
 Low 

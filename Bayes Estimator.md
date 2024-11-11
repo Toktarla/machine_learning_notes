@@ -23,15 +23,14 @@ Using the **Bayes Estimator**, we will combine our prior belief (the normal dist
 
 Standard Error=σ/sqrt(n)=8 / sqrt(5) ≈3.58 
 
-
-![[Pasted image 20241108142544.png]]
+![](images/Pasted image 20241108142544.png)
 
 **Find the Posterior Mean and Variance**:
 
 The **posterior mean** is the **weighted average** of the prior mean and the sample mean, where the weights depend on the respective variances. The formula for the posterior mean is:
-![[Pasted image 20241108142728.png]]
+![](images/Pasted image 20241108142728.png)
 
-![[Pasted image 20241108142752.png]]
+![](images/Pasted image 20241108142752.png)
 
 ### Final Estimate:
 

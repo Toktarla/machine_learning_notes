@@ -25,5 +25,8 @@
     - **Application**: Clustering stars or galaxies which might follow curved patterns in 3D space due to gravitational forces.
 
 
-![[Pasted image 20241111184449.png]]![[Pasted image 20241111184521.png]]
+![](images/Pasted image 20241111184449.png)
+
+![](images/Pasted image 20241111184521.png)
+
 

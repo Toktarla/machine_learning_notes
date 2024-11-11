@@ -10,7 +10,7 @@ The **Expectation-Maximization (EM) algorithm** is a statistical method used for
 - **E-Step (Expectation)**: In this step, you use the current guess for the hidden variables to estimate their expected values. Essentially, you calculate how likely the hidden variables are given the observed data and current parameters.
     
 - **M-Step (Maximization)**: In this step, you update the parameters of the model by maximizing the likelihood, based on the expected values of the hidden variables calculated in the E-step.
-![[Pasted image 20241111194857.png]]
+![](images/Pasted image 20241111194857.png)
 
 ### **3. Missing Flips and Intuition Behind Estimating Heads/Tails**:
 
