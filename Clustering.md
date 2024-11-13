@@ -18,3 +18,5 @@ Doesnt need labels (outputs) in dataset
 - **Expectation-Maximization (EM)**: A statistical method for finding maximum likelihood estimates of parameters in models with latent variables, like Gaussian Mixture Models (GMM).
 - **Gaussian Mixture Model (GMM)**: A probabilistic model that assumes the data is a mixture of several Gaussian distributions, each representing a cluster.
 - **Choosing k**: Determining the optimal number of clusters in a dataset. Methods include the **Elbow Method**, **Silhouette Score**, and **Gap Statistic**.
+
+
